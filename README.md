@@ -10,7 +10,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ```markdown
 Syntax highlighted code block
-![image of tinky](https://upload.wikimedia.org/wikipedia/commons/8/85/Sky-3.jpg)
+![image of robot](https://blog.robotiq.com/hs-fs/hubfs/darpa_4.jpg?t=1519399032042&width=326&height=244&name=darpa_4.jpg)
 # Header 1
 ## Header 2
 ### Header 3
