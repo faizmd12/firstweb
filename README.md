@@ -7,10 +7,10 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 ## Markdown
 
 # Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 ```markdown
 Syntax highlighted code block
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
 # Header 1
 ## Header 2
 ### Header 3
